@@ -1,0 +1,7 @@
+Ent_num,SDN_Name,SDN_Type,Program,Title,Call_Sign,Vess_type,Tonnage,GRT,Vess_flag,Vess_owner,Remarks
+1001,"NORTHERN MINERALS TRADING LLC",entity,"RUSSIA-EO14024",-0-,-0-,-0-,-0-,-0-,-0-,-0-,"Tax ID 7701234567; Moscow, Russia; Mineral trading conglomerate"
+1002,"IVANOV, Sergey Viktorovich",individual,"RUSSIA-EO14024","Director General",-0-,-0-,-0-,-0-,-0-,-0-,"DOB 12 May 1974; POB St. Petersburg, Russia"
+1003,"PACIFIC METALS LOGISTICS LTD",entity,"GLOMAG",-0-,-0-,-0-,-0-,-0-,-0-,-0-,"Registration 2019/88921; Hong Kong; Illicit mineral transshipment"
+1001,"NORTHERN MINERALS TRADING LLC",entity,"RUSSIA-EO14024",-0-,-0-,-0-,-0-,-0-,-0-,-0-,"Tax ID 7701234567; Moscow, Russia; Mineral trading conglomerate"
+-0-,"INVALID OR MISSING ID ENTITY",entity,"TEST",-0-,-0-,-0-,-0-,-0-,-0-,-0-,"Record lacking Ent_num"
+1004,"",individual,"TEST",-0-,-0-,-0-,-0-,-0-,-0-,-0-,"Record lacking primary name"

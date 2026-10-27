@@ -1,0 +1,1 @@
+Unique mineral content for duplicate hash verification.

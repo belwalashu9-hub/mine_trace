@@ -1,0 +1,15 @@
+{
+  "http_status": 200,
+  "body": {
+    "model2_enabled": true,
+    "auto_sync_enabled": false,
+    "sync_interval_minutes": 15,
+    "last_sync_status": "NEVER_RUN",
+    "last_sync_timestamp": null,
+    "last_successful_sync": null,
+    "is_online_mode": null,
+    "is_syncing_now": false,
+    "last_metrics": {},
+    "coverage_notice": "News discovery is incomplete; no alert is not evidence of safe or available transport."
+  }
+}

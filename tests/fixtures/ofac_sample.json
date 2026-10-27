@@ -1,0 +1,32 @@
+{
+  "_notice": "SYNTHETIC TEST DATASET - NOT OFFICIAL OFAC RECORDS. Created exclusively for local testing and schema validation.",
+  "source": "SYNTHETIC_OFAC_TEST_FIXTURE",
+  "generated_for": "MineTrace Test Suite",
+  "count": 3,
+  "data": [
+    {
+      "Ent_num": "9001",
+      "SDN_Name": "SYNTHETIC MINERALS TRADING CORP",
+      "SDN_Type": "entity",
+      "Program": "RUSSIA-EO14024",
+      "Country": "Russia",
+      "Remarks": "SYNTHETIC TEST RECORD - NOT REAL OFAC DATA. Tax ID 9991234567; Moscow, Russia; Mineral trading syndicate"
+    },
+    {
+      "Ent_num": "9002",
+      "SDN_Name": "TESTOVSKY, Alexander Synthetic",
+      "SDN_Type": "individual",
+      "Program": "RUSSIA-EO14024",
+      "Country": "Russia",
+      "Remarks": "SYNTHETIC TEST RECORD - NOT REAL OFAC DATA. Simulated executive for testing sanctions matching"
+    },
+    {
+      "Ent_num": "9003",
+      "SDN_Name": "PACIFIC SYNTHETIC METALS LTD",
+      "SDN_Type": "entity",
+      "Program": "GLOMAG",
+      "Country": "Hong Kong",
+      "Remarks": "SYNTHETIC TEST RECORD - NOT REAL OFAC DATA. Registration 9999/88921; Simulated transshipment entity"
+    }
+  ]
+}

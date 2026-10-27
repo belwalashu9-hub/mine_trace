@@ -1,0 +1,77 @@
+{
+  "_notice": "SYNTHETIC TEST DATASET - NOT REAL GDELT DATA. Created exclusively for MineTrace Model 2 offline test fixtures and schema validation.",
+  "provider": "gdelt_synthetic_test_fixture",
+  "count": 7,
+  "articles": [
+    {
+      "url": "https://example-mining-news.com/articles/2026/08/lithium-export-controls-announced?utm_source=feed&ref=newsletter",
+      "url_mobile": "https://m.example-mining-news.com/articles/2026/08/lithium-export-controls-announced",
+      "title": "Government Imposes Strict Export Controls on Refined Lithium Carbonate",
+      "seendate": "20260825T143000Z",
+      "socialimage": "https://example-mining-news.com/images/lithium-facility.jpg",
+      "domain": "example-mining-news.com",
+      "language": "English",
+      "sourcecountry": "Chile"
+    },
+    {
+      "url": "https://global-minerals-daily.org/africa/cobalt-miners-strike-shuts-down-key-corridor",
+      "url_mobile": "",
+      "title": "Union Walkout Shuts Down Operations at Major Katanga Cobalt Extraction Site",
+      "seendate": "20260824T091500Z",
+      "socialimage": "",
+      "domain": "global-minerals-daily.org",
+      "language": "English",
+      "sourcecountry": "Democratic Republic of the Congo"
+    },
+    {
+      "url": "https://pacific-trade-dispatch.com/nickel-smelter-operations-halted-amid-power-outages",
+      "url_mobile": "",
+      "title": "Nickel Smelting Halted Across Central Processing Hub Following Grid Failure",
+      "seendate": "20260823T184500Z",
+      "socialimage": "https://pacific-trade-dispatch.com/media/smelter.png",
+      "domain": "pacific-trade-dispatch.com",
+      "language": "English",
+      "sourcecountry": "Indonesia"
+    },
+    {
+      "url": "https://shipping-and-ports-intelligence.net/berth-closure-delays-graphite-shipments",
+      "url_mobile": "",
+      "title": "Port Berth Closure Delays Flake Graphite Shipments to International Refiners",
+      "seendate": "20260822T112000Z",
+      "socialimage": "",
+      "domain": "shipping-and-ports-intelligence.net",
+      "language": "English",
+      "sourcecountry": "Mozambique"
+    },
+    {
+      "url": "HTTP://WWW.RESOURCE-MONITOR.ORG/NEWS/Sanctions-Target-Critical-Mineral-Trading-Group/?utm_campaign=daily&fbclid=xyz123#overview",
+      "url_mobile": "",
+      "title": "Treasury Imposes Secondary Sanctions on Illicit Critical Mineral Transshipment Ring",
+      "seendate": "20260821160000",
+      "socialimage": "",
+      "domain": "",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://asia-business-wire.com/floods-threaten-rare-earth-and-lithium-processing",
+      "url_mobile": "",
+      "title": "Severe Seasonal Flooding Disrupts Tailings Storage and Refinement Infrastructure",
+      "seendate": "INVALID_SEENDATE_STRING",
+      "socialimage": "",
+      "domain": "asia-business-wire.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://minimal-record-source.com/raw-headline-only",
+      "url_mobile": "",
+      "title": "Unspecified Labor Disruption Reported at Remote Extraction Plant",
+      "seendate": "",
+      "socialimage": "",
+      "domain": "",
+      "language": "",
+      "sourcecountry": "-0-"
+    }
+  ]
+}

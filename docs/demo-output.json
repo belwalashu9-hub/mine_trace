@@ -1,0 +1,42 @@
+{
+  "synthetic": true,
+  "baseline": "NO_IDENTIFIED_ALERT",
+  "ingestion": {
+    "run_id": 1,
+    "status": "COMPLETED",
+    "provider": "gdelt_doc_2",
+    "query_category": "SYNTHETIC_DEMO",
+    "lookback_window": null,
+    "fetched_count": 1,
+    "valid_count": 1,
+    "inserted_count": 1,
+    "updated_count": 0,
+    "duplicate_count": 0,
+    "failed_count": 0,
+    "error_message": null
+  },
+  "classification": {
+    "run_id": "cls_1151ab356744",
+    "status": "COMPLETED",
+    "articles_processed": 1,
+    "events_extracted": 1,
+    "events_clustered": 0,
+    "method": "DETERMINISTIC_RULES",
+    "error_message": null
+  },
+  "matches": 1,
+  "assessments": [
+    {
+      "level": "CRITICAL",
+      "score": 93.0,
+      "explanation": "R6 Rule Evaluation: CRITICAL (Score 93.0/100). Event 'SYNTHETIC DEMO: Maritime security incident at Bab el-Mandeb affects cobalt shipp' triggered PHYSICAL_ROUTE_EXPOSURE on candidate corridor 'Red Sea-Suez International Mineral Maritime Lane'. Verification is REPORTED with DIRECT relevance to cobalt. Note: Assessment represents potential exposure, not confirmed cargo embargo.",
+      "sources": [
+        "https://synthetic.example/demo-red-sea"
+      ]
+    }
+  ],
+  "operability": "AT_RISK",
+  "feasibility": "POTENTIALLY_POSSIBLE_UNCONFIRMED",
+  "alternative": "Candidate via gulf_of_aden \u2192 cape_of_good_hope \u2192 europe_med_hub",
+  "limitations": "CANDIDATE ALTERNATIVE \u2014 NOT CARRIER VERIFIED. Physical route viability indicates geographic connectivity only. Commercial availability, freight booking, carrier acceptance, marine insurance premiums, transit tariffs, and customs clearance must be verified independently with certified logistics providers."
+}

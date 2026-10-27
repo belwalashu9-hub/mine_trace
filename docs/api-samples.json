@@ -1,0 +1,441 @@
+{
+  "synthetic": true,
+  "samples": {
+    "status": {
+      "http_status": 200,
+      "body": {
+        "model2_enabled": true,
+        "auto_sync_enabled": false,
+        "sync_interval_minutes": 15,
+        "last_sync_status": "NEVER_RUN",
+        "last_sync_timestamp": null,
+        "last_successful_sync": null,
+        "is_online_mode": null,
+        "is_syncing_now": false,
+        "last_metrics": {},
+        "coverage_notice": "News discovery is incomplete; no alert is not evidence of safe or available transport."
+      }
+    },
+    "news": {
+      "http_status": 200,
+      "body": {
+        "total": 0,
+        "limit": 50,
+        "offset": 0,
+        "items": []
+      }
+    },
+    "events": {
+      "http_status": 200,
+      "body": {
+        "total": 1,
+        "limit": 50,
+        "offset": 0,
+        "items": [
+          {
+            "id": 1,
+            "event_id": "geo_ae4d08bfeeaabb39",
+            "synthetic": true,
+            "event_type": "MARITIME_SECURITY_INCIDENT",
+            "title": "SYNTHETIC DEMO: Maritime security incident at Bab el-Mandeb affects cobalt shipping",
+            "summary": "Reported maritime security incident affecting Yemen.",
+            "affected_country": "Yemen",
+            "region": "Bab el-Mandeb Strait",
+            "location_name": "Bab El-Mandeb",
+            "latitude": 12.5833,
+            "longitude": 43.3333,
+            "has_coordinates": true,
+            "coordinate_basis": "Headline place-name reference; incident position unverified",
+            "event_date": null,
+            "gdelt_seen_dates": [
+              "2026-10-27T12:00:00"
+            ],
+            "publication_date": null,
+            "mineral_relevance": "cobalt",
+            "relevance_type": "DIRECT",
+            "affected_infrastructure": "Bab el-Mandeb Strait",
+            "extraction_confidence": 0.9,
+            "verification_status": "REPORTED",
+            "source_article_count": 1,
+            "evidence": [
+              {
+                "source_url": "https://synthetic.example/demo-red-sea",
+                "article_title": "SYNTHETIC DEMO: Maritime security incident at Bab el-Mandeb affects cobalt shipping"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "routes": {
+      "http_status": 200,
+      "body": {
+        "routes": [
+          {
+            "id": 1,
+            "route_id": "route_cod_durban_cobalt",
+            "name": "DRC-Durban Cobalt Export Corridor",
+            "origin": "Kolwezi, Democratic Republic of the Congo",
+            "destination": "Port of Durban, South Africa",
+            "mineral_relevance": "cobalt",
+            "transport_mode": "MULTIMODAL",
+            "primary_hubs": [
+              "Kolwezi",
+              "Lubumbashi",
+              "Kasumbalesa Border",
+              "Ndola",
+              "Lusaka",
+              "Port of Durban"
+            ],
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  25.4667,
+                  -10.7167
+                ],
+                [
+                  27.4794,
+                  -11.6609
+                ],
+                [
+                  27.8,
+                  -12.25
+                ],
+                [
+                  28.6333,
+                  -12.9667
+                ],
+                [
+                  28.2833,
+                  -15.4167
+                ],
+                [
+                  29.9833,
+                  -22.2167
+                ],
+                [
+                  28.05,
+                  -26.2
+                ],
+                [
+                  31.0218,
+                  -29.8587
+                ]
+              ]
+            },
+            "data_confidence": "DEMO_CANDIDATE",
+            "designation": "CANDIDATE ROUTE \u2014 NOT CONFIRMED COMMERCIAL SCHEDULE",
+            "operability_status": "NO_IDENTIFIED_ALERT",
+            "shipment_feasibility": "UNKNOWN",
+            "active_alert_count": 0
+          },
+          {
+            "id": 2,
+            "route_id": "route_chl_antofagasta_lithium",
+            "name": "Atacama-Antofagasta Lithium Export Route",
+            "origin": "Salar de Atacama, Chile",
+            "destination": "Port of Antofagasta, Chile",
+            "mineral_relevance": "lithium",
+            "transport_mode": "ROAD",
+            "primary_hubs": [
+              "Salar de Atacama",
+              "San Pedro de Atacama",
+              "Baquedano Intermodal",
+              "Port of Antofagasta"
+            ],
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  -68.25,
+                  -23.5
+                ],
+                [
+                  -68.2,
+                  -22.9167
+                ],
+                [
+                  -69.8333,
+                  -23.3333
+                ],
+                [
+                  -70.4,
+                  -23.65
+                ]
+              ]
+            },
+            "data_confidence": "DEMO_CANDIDATE",
+            "designation": "CANDIDATE ROUTE \u2014 NOT CONFIRMED COMMERCIAL SCHEDULE",
+            "operability_status": "NO_IDENTIFIED_ALERT",
+            "shipment_feasibility": "UNKNOWN",
+            "active_alert_count": 0
+          },
+          {
+            "id": 3,
+            "route_id": "route_idn_morowali_nickel",
+            "name": "Indonesia Morowali Nickel Shipping Lane",
+            "origin": "Morowali Industrial Park, Indonesia",
+            "destination": "Port of Bahodopi to Ningbo Maritime Corridor",
+            "mineral_relevance": "nickel",
+            "transport_mode": "MARITIME",
+            "primary_hubs": [
+              "IMIP Smelting Complex",
+              "Port of Bahodopi",
+              "Makassar Strait",
+              "Ningbo Terminal"
+            ],
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  122.155,
+                  -2.825
+                ],
+                [
+                  122.14,
+                  -2.8
+                ],
+                [
+                  123.5,
+                  -1.5
+                ],
+                [
+                  120.0,
+                  1.0
+                ],
+                [
+                  123.0,
+                  10.0
+                ],
+                [
+                  121.544,
+                  29.8683
+                ]
+              ]
+            },
+            "data_confidence": "DEMO_CANDIDATE",
+            "designation": "CANDIDATE ROUTE \u2014 NOT CONFIRMED COMMERCIAL SCHEDULE",
+            "operability_status": "NO_IDENTIFIED_ALERT",
+            "shipment_feasibility": "UNKNOWN",
+            "active_alert_count": 0
+          },
+          {
+            "id": 4,
+            "route_id": "route_moz_nacala_graphite",
+            "name": "Balama-Nacala Graphite Export Corridor",
+            "origin": "Balama Graphite Mine, Mozambique",
+            "destination": "Deepwater Port of Nacala, Mozambique",
+            "mineral_relevance": "natural_graphite",
+            "transport_mode": "ROAD",
+            "primary_hubs": [
+              "Balama Mine",
+              "Montepuez Hub",
+              "Nampula Logistics Center",
+              "Port of Nacala"
+            ],
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  38.5647,
+                  -13.3458
+                ],
+                [
+                  39.0,
+                  -13.125
+                ],
+                [
+                  39.2667,
+                  -15.1167
+                ],
+                [
+                  40.6728,
+                  -14.5428
+                ]
+              ]
+            },
+            "data_confidence": "DEMO_CANDIDATE",
+            "designation": "CANDIDATE ROUTE \u2014 NOT CONFIRMED COMMERCIAL SCHEDULE",
+            "operability_status": "NO_IDENTIFIED_ALERT",
+            "shipment_feasibility": "UNKNOWN",
+            "active_alert_count": 0
+          },
+          {
+            "id": 5,
+            "route_id": "route_red_sea_suez_minerals",
+            "name": "Red Sea-Suez International Mineral Maritime Lane",
+            "origin": "Gulf of Aden / Bab el-Mandeb",
+            "destination": "Suez Canal / Mediterranean Refineries",
+            "mineral_relevance": "all_critical_minerals",
+            "transport_mode": "MARITIME",
+            "primary_hubs": [
+              "Bab el-Mandeb Strait",
+              "Southern Red Sea Shipping Channel",
+              "Port of Suez",
+              "Suez Canal"
+            ],
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  45.0,
+                  11.8
+                ],
+                [
+                  43.3333,
+                  12.5833
+                ],
+                [
+                  41.5,
+                  15.5
+                ],
+                [
+                  37.5,
+                  22.0
+                ],
+                [
+                  33.5,
+                  27.5
+                ],
+                [
+                  32.5498,
+                  29.9668
+                ],
+                [
+                  32.2654,
+                  30.5852
+                ]
+              ]
+            },
+            "data_confidence": "DEMO_CANDIDATE",
+            "designation": "CANDIDATE ROUTE \u2014 NOT CONFIRMED COMMERCIAL SCHEDULE",
+            "operability_status": "AT_RISK",
+            "shipment_feasibility": "POTENTIALLY_POSSIBLE_UNCONFIRMED",
+            "active_alert_count": 1
+          }
+        ]
+      }
+    },
+    "dashboard/summary": {
+      "http_status": 200,
+      "body": {
+        "overview": {
+          "total_articles_indexed": 1,
+          "pending_classification": 0,
+          "active_geopolitical_events": 1,
+          "critical_disruption_events": 1,
+          "monitored_routes": 5,
+          "routes_under_alert": 1
+        },
+        "system_status": {
+          "model2_enabled": true,
+          "auto_sync_enabled": false,
+          "sync_interval_minutes": 15,
+          "last_sync_status": "NEVER_RUN",
+          "last_sync_timestamp": null,
+          "last_successful_sync": null,
+          "is_online_mode": null,
+          "is_syncing_now": false,
+          "last_metrics": {},
+          "coverage_notice": "News discovery is incomplete; no alert is not evidence of safe or available transport."
+        }
+      }
+    },
+    "routes/route_red_sea_suez_minerals/impact": {
+      "http_status": 200,
+      "body": {
+        "route_id": "route_red_sea_suez_minerals",
+        "name": "Red Sea-Suez International Mineral Maritime Lane",
+        "assessments_count": 1,
+        "assessments": [
+          {
+            "assessment_id": "r6_8573ac92de1f",
+            "event_id": "geo_ae4d08bfeeaabb39",
+            "event_title": "SYNTHETIC DEMO: Maritime security incident at Bab el-Mandeb affects cobalt shipping",
+            "event_type": "MARITIME_SECURITY_INCIDENT",
+            "verification_status": "REPORTED",
+            "risk_level": "CRITICAL",
+            "heuristic_score": 93.0,
+            "triggering_factors": [
+              "Event type 'MARITIME_SECURITY_INCIDENT' assigned base severity weight: 30.0/35.0",
+              "Direct intersection with route corridor (<5km): +35.0",
+              "Reported by single news outlet (pending independent corroboration): +8.0",
+              "Direct relevance to monitored critical mineral (cobalt): +15.0",
+              "Fresh intelligence (<48 hours old): +5.0"
+            ],
+            "potential_impacts": {
+              "SECURITY_EXPOSURE": "POTENTIAL_IMPACT",
+              "PRODUCTION_INTERRUPTION": "NOT_ESTABLISHED",
+              "TRANSPORT_DELAY_RISK": "POTENTIAL_IMPACT",
+              "PORT_DISRUPTION": "NOT_ESTABLISHED",
+              "BORDER_DISRUPTION": "NOT_ESTABLISHED",
+              "REROUTING_REQUIREMENT": "POTENTIAL_IMPACT",
+              "TRADE_RESTRICTION": "NOT_ESTABLISHED",
+              "LOGISTICS_COST_PRESSURE": "POTENTIAL_IMPACT"
+            },
+            "source_evidence": [
+              "https://synthetic.example/demo-red-sea"
+            ],
+            "data_confidence": "MEDIUM",
+            "calculation_explanation": "R6 Rule Evaluation: CRITICAL (Score 93.0/100). Event 'SYNTHETIC DEMO: Maritime security incident at Bab el-Mandeb affects cobalt shipp' triggered PHYSICAL_ROUTE_EXPOSURE on candidate corridor 'Red Sea-Suez International Mineral Maritime Lane'. Verification is REPORTED with DIRECT relevance to cobalt. Note: Assessment represents potential exposure, not confirmed cargo embargo.",
+            "rule_version": "1.0",
+            "evaluated_at": "2026-10-27T16:27:59Z"
+          }
+        ]
+      }
+    },
+    "routes/route_red_sea_suez_minerals/feasibility": {
+      "http_status": 200,
+      "body": {
+        "route_id": "route_red_sea_suez_minerals",
+        "name": "Red Sea-Suez International Mineral Maritime Lane",
+        "mineral": "all_critical_minerals",
+        "operability_status": "AT_RISK",
+        "regulatory_status": "UNKNOWN",
+        "shipment_feasibility": "POTENTIALLY_POSSIBLE_UNCONFIRMED",
+        "active_alert_count": 1,
+        "highest_risk_level": "CRITICAL",
+        "candidate_alternative": {
+          "alternative_route_id": "alt_route_red_sea_suez_minerals",
+          "alternative_route_name": "Candidate via gulf_of_aden \u2192 cape_of_good_hope \u2192 europe_med_hub",
+          "designation": "CANDIDATE ALTERNATIVE \u2014 NOT CARRIER VERIFIED",
+          "comparison_summary": "Candidate alternative corridor identified: 'Candidate via gulf_of_aden \u2192 cape_of_good_hope \u2192 europe_med_hub' (16000 km). Justification: Different stored graph path to the same destination; closed nodes excluded; risk penalty multiplier 3."
+        },
+        "limitations_disclaimer": "CANDIDATE ALTERNATIVE \u2014 NOT CARRIER VERIFIED. Physical route viability indicates geographic connectivity only. Commercial availability, freight booking, carrier acceptance, marine insurance premiums, transit tariffs, and customs clearance must be verified independently with certified logistics providers.",
+        "updated_at": "2026-10-27T16:28:00Z"
+      }
+    },
+    "routes/route_red_sea_suez_minerals/alternatives": {
+      "http_status": 200,
+      "body": {
+        "route_id": "route_red_sea_suez_minerals",
+        "has_candidate_alternative": true,
+        "candidate_alternative": {
+          "route_id": "alt_route_red_sea_suez_minerals",
+          "name": "Candidate via gulf_of_aden \u2192 cape_of_good_hope \u2192 europe_med_hub",
+          "designation": "CANDIDATE ALTERNATIVE \u2014 NOT CARRIER VERIFIED",
+          "explanation": "Candidate alternative corridor identified: 'Candidate via gulf_of_aden \u2192 cape_of_good_hope \u2192 europe_med_hub' (16000 km). Justification: Different stored graph path to the same destination; closed nodes excluded; risk penalty multiplier 3."
+        },
+        "limitations": "CANDIDATE ALTERNATIVE \u2014 NOT CARRIER VERIFIED. Physical route viability indicates geographic connectivity only. Commercial availability, freight booking, carrier acceptance, marine insurance premiums, transit tariffs, and customs clearance must be verified independently with certified logistics providers."
+      }
+    },
+    "routes/route_red_sea_suez_minerals/explanation": {
+      "http_status": 200,
+      "body": {
+        "route_id": "route_red_sea_suez_minerals",
+        "mode": "DETERMINISTIC",
+        "facts": [
+          "R6 Rule Evaluation: CRITICAL (Score 93.0/100). Event 'SYNTHETIC DEMO: Maritime security incident at Bab el-Mandeb affects cobalt shipp' triggered PHYSICAL_ROUTE_EXPOSURE on candidate corridor 'Red Sea-Suez International Mineral Maritime Lane'. Verification is REPORTED with DIRECT relevance to cobalt. Note: Assessment represents potential exposure, not confirmed cargo embargo.",
+          "Operability: AT_RISK. Shipment feasibility: POTENTIALLY_POSSIBLE_UNCONFIRMED.",
+          "Candidate alternative corridor identified: 'Candidate via gulf_of_aden \u2192 cape_of_good_hope \u2192 europe_med_hub' (16000 km). Justification: Different stored graph path to the same destination; closed nodes excluded; risk penalty multiplier 3.",
+          "CANDIDATE ALTERNATIVE \u2014 NOT CARRIER VERIFIED. Physical route viability indicates geographic connectivity only. Commercial availability, freight booking, carrier acceptance, marine insurance premiums, transit tariffs, and customs clearance must be verified independently with certified logistics providers."
+        ],
+        "sources": [
+          "https://synthetic.example/demo-red-sea"
+        ],
+        "principle": "OUR AI EXPLAINS. IT DOES NOT DECIDE."
+      }
+    }
+  }
+}

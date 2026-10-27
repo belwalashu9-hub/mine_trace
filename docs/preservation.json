@@ -1,0 +1,60 @@
+{
+  "original_db_sha256": "5f47a9e8b58abc440e85aa905e24994aaca0dd36fc5a807ca8d94aaeed52af61",
+  "uploaded_db_byte_identical": true,
+  "model1_rows_unchanged_after_two_migrations_and_pipeline": true,
+  "tables": {
+    "data_source_metadata": {
+      "rows": 2,
+      "sha256": "5611fc04e6722d5058f8a239b613c708e1f8bdbab9d6b6a375a94b0361e549be"
+    },
+    "ingestion_runs": {
+      "rows": 13,
+      "sha256": "0619f19e230e1ae6dfdd11b2d4744db942f97111f4cc9fe705aef62fb935dc08"
+    },
+    "raw_trade_records": {
+      "rows": 36,
+      "sha256": "1c877e6a750166c45aa7a8bfcf9d80137a8efe8b9845cd6a0846541705bf7c34"
+    },
+    "normalized_trade_records": {
+      "rows": 4,
+      "sha256": "20bf83ea39bc2f462d6037fbb3380dd178f87b99b821ca7f06bdfd4517cfe350"
+    },
+    "ofac_sanctions_records": {
+      "rows": 6,
+      "sha256": "f6479b22aae881df09d6a9871633fa562f523383e25bfb8a82442e966a08306b"
+    },
+    "data_quality_issues": {
+      "rows": 72,
+      "sha256": "3e29510183439a445b7324b01f719eb16d68a7150b71ac6ebcc4a5ff413cbeeb"
+    },
+    "risk_analyses": {
+      "rows": 4,
+      "sha256": "2eb2074e72278ce43463c3e233b6f6052660c5843db61ca856c34cb1246b7e79"
+    },
+    "risk_rule_results": {
+      "rows": 20,
+      "sha256": "499375f6dcff1a74f71789e484af951fd1c4350c1431fe4a3a4c793bb8af1e54"
+    },
+    "ranking_snapshots": {
+      "rows": 0,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "ranking_snapshot_items": {
+      "rows": 0,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    "evidence_snapshots": {
+      "rows": 4,
+      "sha256": "b47c1cd69cbb436e18b22a989fc594a73e31dc8b053d328976be1235180530fb"
+    },
+    "audit_events": {
+      "rows": 21,
+      "sha256": "fccdfbb8fe766eb56f4e71af3982df980fe22f3e2cfff84027a5e9e2839722a3"
+    },
+    "generated_reports": {
+      "rows": 0,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    }
+  },
+  "pipeline_status": "COMPLETED"
+}

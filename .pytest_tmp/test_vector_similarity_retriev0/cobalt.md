@@ -1,0 +1,1 @@
+Cobalt extraction in the Democratic Republic of Congo and artisanal mining risks.

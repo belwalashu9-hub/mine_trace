@@ -1,0 +1,3 @@
+2026-10-27 18:21:06 | INFO    | minetrace | Querying GDELT DOC 2.0 (attempt 1/1): query='"mineral" "disruption"...' timespan=24h maxrecords=5
+2026-10-27 18:21:16 | WARNING | minetrace | GDELT server error (HTTP 503): upstream connect error or disconnect/reset before headers. reset reason: connection timeout (attempt 1)
+GdeltAPIError: GDELT server error (HTTP 503): upstream connect error or disconnect/reset before headers. reset reason: connection timeout

@@ -1,0 +1,423 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [7 0 R 9 0 R 11 0 R] /Count 3 /MediaBox [0 0 595.28 841.89] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R
+   /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >>
+   /Contents 8 0 R
+>>
+endobj
+8 0 obj
+<< /Length 11009 >>
+stream
+0.75 w
+0.920 0.940 0.970 rg
+0.800 0.840 0.900 RG
+40.00 772.89 515.28 21.00 re B
+0.50 w
+0.120 0.290 0.530 rg
+40.00 772.89 4.00 21.00 re f
+BT 0.080 0.200 0.380 rg /F2 15.0 Tf 1 0 0 1 50.00 775.89 Tm (MineTrace  -  Critical Mineral Supply-Chain Risk Assessment) Tj ET
+BT 0.200 0.250 0.350 rg /F2 8.5 Tf 1 0 0 1 40.00 749.89 Tm (REPORT ID: REP-4D5986F87F9A | ANALYSIS ID: 15271302-da4b-4ab8-994c-3f199360f81e | TEMPLATE VERSION: 1.0) Tj ET
+BT 0.350 0.400 0.450 rg /F3 8.0 Tf 1 0 0 1 40.00 733.89 Tm (Generated At: 2026-10-27T16:55:29 UTC | Original Analysis Timestamp: 2026-10-27T16:55:28 UTC) Tj ET
+0.75 w
+0.930 0.950 0.980 rg
+0.300 0.450 0.650 RG
+40.00 686.89 515.28 31.00 re B
+0.50 w
+0.300 0.450 0.650 rg
+40.00 686.89 4.00 31.00 re f
+BT 0.150 0.300 0.500 rg /F2 8.5 Tf 1 0 0 1 50.00 705.89 Tm (ANALYST SCOPE NOTES) Tj ET
+BT 0.150 0.150 0.150 rg /F1 7.8 Tf 1 0 0 1 50.00 694.89 Tm (End-to-end integration verification report.) Tj ET
+BT 0.150 0.220 0.330 rg /F2 12.0 Tf 1 0 0 1 40.00 662.89 Tm (1. Executive Summary) Tj ET
+0.50 w 0.820 0.850 0.880 RG 40.00 659.89 m 555.28 659.89 l S
+0.75 w
+0.990 0.960 0.900 rg
+0.800 0.550 0.150 RG
+40.00 600.89 515.28 42.00 re B
+0.50 w
+0.800 0.550 0.150 rg
+40.00 600.89 4.00 42.00 re f
+BT 0.650 0.400 0.050 rg /F2 8.5 Tf 1 0 0 1 50.00 630.89 Tm (CLASSIFICATION: INSUFFICIENT_DATA  \(ANOMALY SCORE: 30.0/100\)  -  PARTIAL) Tj ET
+BT 0.150 0.150 0.150 rg /F1 7.8 Tf 1 0 0 1 50.00 619.89 Tm (Flag Status: FLAGGED | Sanctions Screening: UNKNOWN | Evaluated Rules: 1 |) Tj ET
+BT 0.150 0.150 0.150 rg /F1 7.8 Tf 1 0 0 1 50.00 609.39 Tm (Insufficient Rules: 3) Tj ET
+0.75 w
+0.990 0.960 0.900 rg
+0.800 0.550 0.150 RG
+40.00 550.89 515.28 42.00 re B
+0.50 w
+0.800 0.550 0.150 rg
+40.00 550.89 4.00 42.00 re f
+BT 0.650 0.400 0.050 rg /F2 8.5 Tf 1 0 0 1 50.00 580.89 Tm (DATA INSUFFICIENCY NOTICE) Tj ET
+BT 0.150 0.150 0.150 rg /F1 7.8 Tf 1 0 0 1 50.00 569.89 Tm (Required baseline trade flows or partner mirror records were missing. Per Phase 3) Tj ET
+BT 0.150 0.150 0.150 rg /F1 7.8 Tf 1 0 0 1 50.00 559.39 Tm (data sufficiency policies, this transaction cannot be classified as low risk.) Tj ET
+0.40 w
+0.970 0.980 0.990 rg
+0.880 0.900 0.920 RG
+40.00 529.89 251.64 16.00 re B
+BT 0.250 0.300 0.380 rg /F2 8.0 Tf 1 0 0 1 45.00 532.89 Tm (Mineral / Commodity:) Tj ET
+BT 0.050 0.050 0.050 rg /F1 8.0 Tf 1 0 0 1 135.00 532.89 Tm (Lithium \(HS 283691\)) Tj ET
+0.40 w
+0.970 0.980 0.990 rg
+0.880 0.900 0.920 RG
+297.64 529.89 251.64 16.00 re B
+BT 0.250 0.300 0.380 rg /F2 8.0 Tf 1 0 0 1 302.64 532.89 Tm (Reporter Country:) Tj ET
+BT 0.050 0.050 0.050 rg /F1 8.0 Tf 1 0 0 1 392.64 532.89 Tm (USA) Tj ET
+0.40 w
+0.970 0.980 0.990 rg
+0.880 0.900 0.920 RG
+40.00 510.89 251.64 16.00 re B
+BT 0.250 0.300 0.380 rg /F2 8.0 Tf 1 0 0 1 45.00 513.89 Tm (Partner Country:) Tj ET
+BT 0.050 0.050 0.050 rg /F1 8.0 Tf 1 0 0 1 135.00 513.89 Tm (CHL) Tj ET
+0.40 w
+0.970 0.980 0.990 rg
+0.880 0.900 0.920 RG
+297.64 510.89 251.64 16.00 re B
+BT 0.250 0.300 0.380 rg /F2 8.0 Tf 1 0 0 1 302.64 513.89 Tm (Trade Period:) Tj ET
+BT 0.050 0.050 0.050 rg /F1 8.0 Tf 1 0 0 1 392.64 513.89 Tm (2023) Tj ET
+0.40 w
+0.970 0.980 0.990 rg
+0.880 0.900 0.920 RG
+40.00 491.89 251.64 16.00 re B
+BT 0.250 0.300 0.380 rg /F2 8.0 Tf 1 0 0 1 45.00 494.89 Tm (Score Completeness:) Tj ET
+BT 0.050 0.050 0.050 rg /F1 8.0 Tf 1 0 0 1 135.00 494.89 Tm (PARTIAL) Tj ET
+0.40 w
+0.970 0.980 0.990 rg
+0.880 0.900 0.920 RG
+297.64 491.89 251.64 16.00 re B
+BT 0.250 0.300 0.380 rg /F2 8.0 Tf 1 0 0 1 302.64 494.89 Tm (Sanctions Screening:) Tj ET
+BT 0.050 0.050 0.050 rg /F1 8.0 Tf 1 0 0 1 392.64 494.89 Tm (UNKNOWN) Tj ET
+BT 0.150 0.220 0.330 rg /F2 12.0 Tf 1 0 0 1 40.00 465.89 Tm (2. Risk Rule Evaluation Details) Tj ET
+0.50 w 0.820 0.850 0.880 RG 40.00 462.89 m 555.28 462.89 l S
+0.50 w
+0.140 0.240 0.380 rg
+0.100 0.180 0.300 RG
+40.00 427.89 515.28 18.00 re B
+BT 1.000 1.000 1.000 rg /F2 8.0 Tf 1 0 0 1 45.00 432.89 Tm (Rule ID) Tj ET
+BT 1.000 1.000 1.000 rg /F2 8.0 Tf 1 0 0 1 90.00 432.89 Tm (Rule Name) Tj ET
+BT 1.000 1.000 1.000 rg /F2 8.0 Tf 1 0 0 1 250.00 432.89 Tm (Weight) Tj ET
+BT 1.000 1.000 1.000 rg /F2 8.0 Tf 1 0 0 1 300.00 432.89 Tm (Outcome) Tj ET
+BT 1.000 1.000 1.000 rg /F2 8.0 Tf 1 0 0 1 380.00 432.89 Tm (Threshold) Tj ET
+BT 1.000 1.000 1.000 rg /F2 8.0 Tf 1 0 0 1 475.00 432.89 Tm (Calculated) Tj ET
+0.40 w
+0.980 0.990 1.000 rg
+0.850 0.880 0.910 RG
+40.00 411.89 515.28 16.00 re B
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 45.00 416.39 Tm (R1) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 90.00 416.39 Tm (Mirror Trade Gap) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 250.00 416.39 Tm (30 pts) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 300.00 416.39 Tm (INSUFFICIENT_D..) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 380.00 416.39 Tm (> 30.0%) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 475.00 416.39 Tm (N/A) Tj ET
+0.40 w
+0.940 0.950 0.970 rg
+0.850 0.880 0.910 RG
+40.00 395.89 515.28 16.00 re B
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 45.00 400.39 Tm (R2) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 90.00 400.39 Tm (Volume Spike) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 250.00 400.39 Tm (20 pts) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 300.00 400.39 Tm (INSUFFICIENT_D..) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 380.00 400.39 Tm (> 200.0%) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 475.00 400.39 Tm (N/A) Tj ET
+0.40 w
+0.980 0.990 1.000 rg
+0.850 0.880 0.910 RG
+40.00 379.89 515.28 16.00 re B
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 45.00 384.39 Tm (R3) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 90.00 384.39 Tm (Route Concentration) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 250.00 384.39 Tm (30 pts) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 300.00 384.39 Tm (FLAG) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 380.00 384.39 Tm (> 80.0%) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 475.00 384.39 Tm (100.0%) Tj ET
+0.40 w
+0.940 0.950 0.970 rg
+0.850 0.880 0.910 RG
+40.00 363.89 515.28 16.00 re B
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 45.00 368.39 Tm (R4) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 90.00 368.39 Tm (Unusual Unit Price) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 250.00 368.39 Tm (20 pts) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 300.00 368.39 Tm (INSUFFICIENT_D..) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 380.00 368.39 Tm (> 60.0%) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 475.00 368.39 Tm (N/A) Tj ET
+0.40 w
+0.980 0.990 1.000 rg
+0.850 0.880 0.910 RG
+40.00 347.89 515.28 16.00 re B
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 45.00 352.39 Tm (R5) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 90.00 352.39 Tm (Sanctions Exposure Status) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 250.00 352.39 Tm (0 pts) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 300.00 352.39 Tm (UNKNOWN) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 380.00 352.39 Tm (Match against OFA..) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 475.00 352.39 Tm (N/A) Tj ET
+BT 0.150 0.150 0.150 rg /F1 8.0 Tf 1 0 0 1 48.00 339.89 Tm ([R1] Mirror Trade Gap \(Weight: 30 pts\)  -  Status: INSUFFICIENT_DATA) Tj ET
+BT 0.150 0.150 0.150 rg /F1 8.0 Tf 1 0 0 1 48.00 327.89 Tm (Formula: abs\(export_value - import_value\) / max\(export_value, import_value\) * 100 | Threshold: > 30.0% | Calculated: N/A) Tj ET
+BT 0.150 0.150 0.150 rg /F1 8.0 Tf 1 0 0 1 48.00 315.89 Tm (Inputs: {'export_value': None, 'import_value': 125000000.0, 'reporter_country': 'United States', 'partner_country': 'Chile',) Tj ET
+BT 0.150 0.150 0.150 rg /F1 8.0 Tf 1 0 0 1 48.00 303.89 Tm ('period': '2023'}) Tj ET
+BT 0.150 0.150 0.150 rg /F1 8.0 Tf 1 0 0 1 48.00 291.89 Tm (Explanation: Insufficient data to evaluate mirror trade gap: export value is missing.) Tj ET
+BT 0.150 0.150 0.150 rg /F1 8.0 Tf 1 0 0 1 48.00 275.89 Tm ([R2] Volume Spike \(Weight: 20 pts\)  -  Status: INSUFFICIENT_DATA) Tj ET
+BT 0.150 0.150 0.150 rg /F1 8.0 Tf 1 0 0 1 48.00 263.89 Tm (Formula: \(current_volume - previous_volume\) / previous_volume * 100 | Threshold: > 200.0% | Calculated: N/A) Tj ET
+BT 0.150 0.150 0.150 rg /F1 8.0 Tf 1 0 0 1 48.00 251.89 Tm (Inputs: {'current_volume': 8500000.0, 'previous_volume': None, 'current_period': '2023', 'previous_period': None,) Tj ET
+BT 0.150 0.150 0.150 rg /F1 8.0 Tf 1 0 0 1 48.00 239.89 Tm ('volume_unit': 'kg'}) Tj ET
+BT 0.150 0.150 0.150 rg /F1 8.0 Tf 1 0 0 1 48.00 227.89 Tm (Explanation: Insufficient historical data: missing historical previous period baseline.) Tj ET
+BT 0.150 0.150 0.150 rg /F1 8.0 Tf 1 0 0 1 48.00 211.89 Tm ([R3] Route Concentration \(Weight: 30 pts\)  -  Status: FLAG) Tj ET
+BT 0.150 0.150 0.150 rg /F1 8.0 Tf 1 0 0 1 48.00 199.89 Tm (Formula: partner_import_volume / total_comparable_import_volume * 100 | Threshold: > 80.0% | Calculated: 100.0%) Tj ET
+BT 0.150 0.150 0.150 rg /F1 8.0 Tf 1 0 0 1 48.00 187.89 Tm (Inputs: {'partner_import_volume': 8500000.0, 'total_comparable_import_volume': 8500000.0, 'partner_country': 'Chile',) Tj ET
+BT 0.150 0.150 0.150 rg /F1 8.0 Tf 1 0 0 1 48.00 175.89 Tm ('reporter_country': 'United States', 'period': '2023', 'volume_unit': 'kg'}) Tj ET
+BT 0.150 0.150 0.150 rg /F1 8.0 Tf 1 0 0 1 48.00 163.89 Tm (Explanation: Partner Chile supplies 100.00% \(8,500,000.00 kg\) of total comparable imports \(8,500,000.00 kg\) for United States) Tj ET
+BT 0.150 0.150 0.150 rg /F1 8.0 Tf 1 0 0 1 48.00 151.89 Tm (in 2023, exceeding the 80.0% concentration threshold.) Tj ET
+BT 0.150 0.150 0.150 rg /F1 8.0 Tf 1 0 0 1 48.00 135.89 Tm ([R4] Unusual Unit Price \(Weight: 20 pts\)  -  Status: INSUFFICIENT_DATA) Tj ET
+BT 0.150 0.150 0.150 rg /F1 8.0 Tf 1 0 0 1 48.00 123.89 Tm (Formula: abs\(unit_price - comparable_median_price\) / comparable_median_price * 100 | Threshold: > 60.0% | Calculated: N/A) Tj ET
+BT 0.150 0.150 0.150 rg /F1 8.0 Tf 1 0 0 1 48.00 111.89 Tm (Inputs: {'trade_value': 125000000.0, 'net_weight_kg': 8500000.0, 'calculated_unit_price': 14.7059, 'sample_size': 1,) Tj ET
+BT 0.150 0.150 0.150 rg /F1 8.0 Tf 1 0 0 1 48.00 99.89 Tm ('min_required_sample_size': 3, 'commodity_code': '283691'}) Tj ET
+BT 0.150 0.150 0.150 rg /F1 8.0 Tf 1 0 0 1 48.00 87.89 Tm (Explanation: Insufficient comparable records: found 1 valid transactions, but at least 3 are required to establish a robust) Tj ET
+BT 0.150 0.150 0.150 rg /F1 8.0 Tf 1 0 0 1 48.00 75.89 Tm (median benchmark.) Tj ET
+BT 0.150 0.150 0.150 rg /F1 8.0 Tf 1 0 0 1 48.00 59.89 Tm ([R5] Sanctions Exposure Status \(Weight: 0 pts\)  -  Status: UNKNOWN) Tj ET
+BT 0.35 0.40 0.48 rg /F2 7.5 Tf 1 0 0 1 40.00 813.89 Tm (MINETRACE | Critical Mineral Supply-Chain Risk Assessment) Tj ET
+BT 0.45 0.50 0.55 rg /F1 7.0 Tf 1 0 0 1 415.28 813.89 Tm (ID: REP-4D5986F87F9A) Tj ET
+0.5 w 0.82 0.85 0.88 RG 40.00 810.89 m 555.28 810.89 l S
+0.5 w 0.82 0.85 0.88 RG 40.00 38.00 m 555.28 38.00 l S
+BT 0.40 0.45 0.50 rg /F1 7.0 Tf 1 0 0 1 40.00 30.00 Tm (Generated: 2026-10-27T16:55:29 UTC) Tj ET
+BT 0.30 0.35 0.42 rg /F2 7.0 Tf 1 0 0 1 390.28 30.00 Tm (CONFIDENTIAL & PROPRIETARY  -  Page 1 of 3) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R
+   /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >>
+   /Contents 10 0 R
+>>
+endobj
+10 0 obj
+<< /Length 10693 >>
+stream
+BT 0.150 0.150 0.150 rg /F1 8.0 Tf 1 0 0 1 48.00 796.89 Tm (Formula: Exact or normalized string matching against official OFAC SDN names and aliases | Threshold: Match against OFAC SDN) Tj ET
+BT 0.150 0.150 0.150 rg /F1 8.0 Tf 1 0 0 1 48.00 784.89 Tm (List \(Separate from numerical anomaly score\) | Calculated: N/A) Tj ET
+BT 0.150 0.150 0.150 rg /F1 8.0 Tf 1 0 0 1 48.00 772.89 Tm (Inputs: {'query_entity_name': None, 'available_ofac_records_count': 3}) Tj ET
+BT 0.150 0.150 0.150 rg /F1 8.0 Tf 1 0 0 1 48.00 760.89 Tm (Explanation: UNKNOWN: Source trade record provides country-level aggregate trade data and contains no specific company or) Tj ET
+BT 0.150 0.150 0.150 rg /F1 8.0 Tf 1 0 0 1 48.00 748.89 Tm (entity identifier suitable for sanctions screening. Sanctions screening cannot be performed without entity identification.) Tj ET
+0.75 w
+0.990 0.960 0.900 rg
+0.800 0.550 0.150 RG
+40.00 679.89 515.28 53.00 re B
+0.50 w
+0.800 0.550 0.150 rg
+40.00 679.89 4.00 53.00 re f
+BT 0.650 0.400 0.050 rg /F2 8.5 Tf 1 0 0 1 50.00 720.89 Tm (INSUFFICIENT RULES EXPLANATION) Tj ET
+BT 0.150 0.150 0.150 rg /F1 7.8 Tf 1 0 0 1 50.00 709.89 Tm (The following rule\(s\) could not be evaluated due to missing source data or baselines:) Tj ET
+BT 0.150 0.150 0.150 rg /F1 7.8 Tf 1 0 0 1 50.00 699.39 Tm (R1, R2, R4. Under MineTrace sufficiency policy, un-evaluated rules are never treated) Tj ET
+BT 0.150 0.150 0.150 rg /F1 7.8 Tf 1 0 0 1 50.00 688.89 Tm (as passing.) Tj ET
+BT 0.150 0.220 0.330 rg /F2 12.0 Tf 1 0 0 1 40.00 655.89 Tm (3. Classification & Sufficiency Guardrails) Tj ET
+0.50 w 0.820 0.850 0.880 RG 40.00 652.89 m 555.28 652.89 l S
+0.40 w
+0.970 0.980 0.990 rg
+0.880 0.900 0.920 RG
+40.00 622.89 251.64 16.00 re B
+BT 0.250 0.300 0.380 rg /F2 8.0 Tf 1 0 0 1 45.00 625.89 Tm (Saved Anomaly Score:) Tj ET
+BT 0.050 0.050 0.050 rg /F1 8.0 Tf 1 0 0 1 135.00 625.89 Tm (30.0 / 100.0) Tj ET
+0.40 w
+0.970 0.980 0.990 rg
+0.880 0.900 0.920 RG
+297.64 622.89 251.64 16.00 re B
+BT 0.250 0.300 0.380 rg /F2 8.0 Tf 1 0 0 1 302.64 625.89 Tm (Assigned Tier:) Tj ET
+BT 0.050 0.050 0.050 rg /F1 8.0 Tf 1 0 0 1 392.64 625.89 Tm (INSUFFICIENT_DATA) Tj ET
+0.40 w
+0.970 0.980 0.990 rg
+0.880 0.900 0.920 RG
+40.00 603.89 251.64 16.00 re B
+BT 0.250 0.300 0.380 rg /F2 8.0 Tf 1 0 0 1 45.00 606.89 Tm (Flag Status:) Tj ET
+BT 0.050 0.050 0.050 rg /F1 8.0 Tf 1 0 0 1 135.00 606.89 Tm (FLAGGED) Tj ET
+0.40 w
+0.970 0.980 0.990 rg
+0.880 0.900 0.920 RG
+297.64 603.89 251.64 16.00 re B
+BT 0.250 0.300 0.380 rg /F2 8.0 Tf 1 0 0 1 302.64 606.89 Tm (Policy Version:) Tj ET
+BT 0.050 0.050 0.050 rg /F1 8.0 Tf 1 0 0 1 392.64 606.89 Tm (1.0) Tj ET
+BT 0.150 0.150 0.150 rg /F1 8.5 Tf 1 0 0 1 40.00 593.89 Tm (Thresholds Applied: GREEN \(0-19\), AMBER \(20-49\), RED \(50-100\), INSUFFICIENT_DATA \(PARTIAL/UNAVAILABLE\)) Tj ET
+BT 0.150 0.150 0.150 rg /F1 8.5 Tf 1 0 0 1 40.00 581.89 Tm (Classification Rationale: INSUFFICIENT_DATA: Score completeness is PARTIAL because one or more scoring rules \(R1, R2, R4\)) Tj ET
+BT 0.150 0.150 0.150 rg /F1 8.5 Tf 1 0 0 1 40.00 569.89 Tm (could not be evaluated. By data sufficiency policy, incomplete assessments cannot be assigned a conclusive color tier.) Tj ET
+BT 0.150 0.150 0.150 rg /F1 8.5 Tf 1 0 0 1 40.00 557.89 Tm (Numerical score \(30.0\) is preserved for auditability.) Tj ET
+BT 0.150 0.220 0.330 rg /F2 12.0 Tf 1 0 0 1 40.00 525.89 Tm (4. Sanctions Screening \(OFAC SDN\)) Tj ET
+0.50 w 0.820 0.850 0.880 RG 40.00 522.89 m 555.28 522.89 l S
+0.75 w
+0.920 0.970 0.930 rg
+0.200 0.600 0.300 RG
+40.00 430.89 515.28 75.00 re B
+0.50 w
+0.200 0.600 0.300 rg
+40.00 430.89 4.00 75.00 re f
+BT 0.100 0.450 0.200 rg /F2 8.5 Tf 1 0 0 1 50.00 493.89 Tm (SANCTIONS STATUS: UNKNOWN) Tj ET
+BT 0.150 0.150 0.150 rg /F1 7.8 Tf 1 0 0 1 50.00 482.89 Tm (Registry Reference: OFAC Specially Designated Nationals \(SDN\) List
+Limitations:) Tj ET
+BT 0.150 0.150 0.150 rg /F1 7.8 Tf 1 0 0 1 50.00 472.39 Tm (SANCTIONS SCREENING LIMITATIONS: Screening is performed against public US Treasury) Tj ET
+BT 0.150 0.150 0.150 rg /F1 7.8 Tf 1 0 0 1 50.00 461.89 Tm (OFAC Specially Designated Nationals \(SDN\) registries. Country-level or) Tj ET
+BT 0.150 0.150 0.150 rg /F1 7.8 Tf 1 0 0 1 50.00 451.39 Tm (commodity-level screening does not substitute for corporate beneficial ownership) Tj ET
+BT 0.150 0.150 0.150 rg /F1 7.8 Tf 1 0 0 1 50.00 440.89 Tm (checks \(e.g., 50 Percent Rule\) or end-user certification.) Tj ET
+BT 0.150 0.220 0.330 rg /F2 12.0 Tf 1 0 0 1 40.00 406.89 Tm (5. Source Evidence & Audit Trail) Tj ET
+0.50 w 0.820 0.850 0.880 RG 40.00 403.89 m 555.28 403.89 l S
+0.40 w
+0.970 0.980 0.990 rg
+0.880 0.900 0.920 RG
+40.00 373.89 251.64 16.00 re B
+BT 0.250 0.300 0.380 rg /F2 8.0 Tf 1 0 0 1 45.00 376.89 Tm (Source Dataset:) Tj ET
+BT 0.050 0.050 0.050 rg /F1 8.0 Tf 1 0 0 1 135.00 376.89 Tm (UN Comtrade \(Normalized\)) Tj ET
+0.40 w
+0.970 0.980 0.990 rg
+0.880 0.900 0.920 RG
+297.64 373.89 251.64 16.00 re B
+BT 0.250 0.300 0.380 rg /F2 8.0 Tf 1 0 0 1 302.64 376.89 Tm (Source Record ID:) Tj ET
+BT 0.050 0.050 0.050 rg /F1 8.0 Tf 1 0 0 1 392.64 376.89 Tm (COMTRADE-REC-001) Tj ET
+0.40 w
+0.970 0.980 0.990 rg
+0.880 0.900 0.920 RG
+40.00 354.89 251.64 16.00 re B
+BT 0.250 0.300 0.380 rg /F2 8.0 Tf 1 0 0 1 45.00 357.89 Tm (Retrieval Timestamp:) Tj ET
+BT 0.050 0.050 0.050 rg /F1 8.0 Tf 1 0 0 1 135.00 357.89 Tm (2026-10-27T16:55:28.413327) Tj ET
+0.40 w
+0.970 0.980 0.990 rg
+0.880 0.900 0.920 RG
+297.64 354.89 251.64 16.00 re B
+BT 0.250 0.300 0.380 rg /F2 8.0 Tf 1 0 0 1 302.64 357.89 Tm (Evidence Snapshot ID:) Tj ET
+BT 0.050 0.050 0.050 rg /F1 8.0 Tf 1 0 0 1 392.64 357.89 Tm (00dd0302-230f-42bf-887b-bafc4a3cb1b5) Tj ET
+0.40 w
+0.970 0.980 0.990 rg
+0.880 0.900 0.920 RG
+40.00 335.89 251.64 16.00 re B
+BT 0.250 0.300 0.380 rg /F2 8.0 Tf 1 0 0 1 45.00 338.89 Tm (Validation Status:) Tj ET
+BT 0.050 0.050 0.050 rg /F1 8.0 Tf 1 0 0 1 135.00 338.89 Tm (VALID) Tj ET
+0.40 w
+0.970 0.980 0.990 rg
+0.880 0.900 0.920 RG
+297.64 335.89 251.64 16.00 re B
+BT 0.250 0.300 0.380 rg /F2 8.0 Tf 1 0 0 1 302.64 338.89 Tm (Source Endpoint / URL:) Tj ET
+BT 0.050 0.050 0.050 rg /F1 8.0 Tf 1 0 0 1 392.64 338.89 Tm (https://comtradeapi.un.org/public/v1/pre) Tj ET
+0.50 w
+0.140 0.240 0.380 rg
+0.100 0.180 0.300 RG
+40.00 307.89 515.28 18.00 re B
+BT 1.000 1.000 1.000 rg /F2 8.0 Tf 1 0 0 1 45.00 312.89 Tm (Event ID) Tj ET
+BT 1.000 1.000 1.000 rg /F2 8.0 Tf 1 0 0 1 135.00 312.89 Tm (Event Type) Tj ET
+BT 1.000 1.000 1.000 rg /F2 8.0 Tf 1 0 0 1 315.00 312.89 Tm (Status) Tj ET
+BT 1.000 1.000 1.000 rg /F2 8.0 Tf 1 0 0 1 390.00 312.89 Tm (Timestamp) Tj ET
+0.40 w
+0.980 0.990 1.000 rg
+0.850 0.880 0.910 RG
+40.00 291.89 515.28 16.00 re B
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 45.00 296.39 Tm (07c4ef5f-f3c..) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 135.00 296.39 Tm (RAG_QUERY_EXECUTED) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 315.00 296.39 Tm (SUCCESS) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 390.00 296.39 Tm (2026-10-27T16:55:29) Tj ET
+0.40 w
+0.940 0.950 0.970 rg
+0.850 0.880 0.910 RG
+40.00 275.89 515.28 16.00 re B
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 45.00 280.39 Tm (19d44041-939..) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 135.00 280.39 Tm (EVIDENCE_VALIDATION_PASSED) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 315.00 280.39 Tm (SUCCESS) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 390.00 280.39 Tm (2026-10-27T16:55:28) Tj ET
+0.40 w
+0.980 0.990 1.000 rg
+0.850 0.880 0.910 RG
+40.00 259.89 515.28 16.00 re B
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 45.00 264.39 Tm (9807e958-392..) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 135.00 264.39 Tm (CLASSIFICATION_CREATED) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 315.00 264.39 Tm (SUCCESS) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 390.00 264.39 Tm (2026-10-27T16:55:28) Tj ET
+0.40 w
+0.940 0.950 0.970 rg
+0.850 0.880 0.910 RG
+40.00 243.89 515.28 16.00 re B
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 45.00 248.39 Tm (9d2ee1bd-1e9..) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 135.00 248.39 Tm (RISK_ANALYSIS_CREATED) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 315.00 248.39 Tm (SUCCESS) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 390.00 248.39 Tm (2026-10-27T16:55:28) Tj ET
+0.40 w
+0.980 0.990 1.000 rg
+0.850 0.880 0.910 RG
+40.00 227.89 515.28 16.00 re B
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 45.00 232.39 Tm (9c270a7a-87d..) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 135.00 232.39 Tm (EVIDENCE_SNAPSHOT_GENERATED) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 315.00 232.39 Tm (SUCCESS) Tj ET
+BT 0.100 0.100 0.100 rg /F1 7.5 Tf 1 0 0 1 390.00 232.39 Tm (2026-10-27T16:55:28) Tj ET
+BT 0.150 0.220 0.330 rg /F2 12.0 Tf 1 0 0 1 40.00 203.89 Tm (6. Validated AI Explanation) Tj ET
+0.50 w 0.820 0.850 0.880 RG 40.00 200.89 m 555.28 200.89 l S
+BT 0.400 0.400 0.400 rg /F3 8.0 Tf 1 0 0 1 40.00 183.89 Tm (Status: UNAVAILABLE. No pre-validated AI explanation was attached to this transaction record.) Tj ET
+BT 0.150 0.220 0.330 rg /F2 12.0 Tf 1 0 0 1 40.00 151.89 Tm (7. Methodology, Limitations & Legal Notice) Tj ET
+0.50 w 0.820 0.850 0.880 RG 40.00 148.89 m 555.28 148.89 l S
+BT 0.250 0.300 0.380 rg /F2 7.8 Tf 1 0 0 1 40.00 131.89 Tm (NOTICE & DISCLAIMER: This document is an automated evidence report generated by the MineTrace critical mineral supply-chain risk) Tj ET
+BT 0.250 0.300 0.380 rg /F2 7.8 Tf 1 0 0 1 40.00 119.89 Tm (intelligence system. Numerical anomaly scores, rule evaluations, and risk classifications \(GREEN, AMBER, RED, INSUFFICIENT_DATA\)) Tj ET
+BT 0.250 0.300 0.380 rg /F2 7.8 Tf 1 0 0 1 40.00 107.89 Tm (reflect deterministic statistical and relational anomalies compared against historical baselines and official trade registries. They) Tj ET
+BT 0.250 0.300 0.380 rg /F2 7.8 Tf 1 0 0 1 40.00 95.89 Tm (DO NOT constitute a legal finding of fraud, illicit trade, customs violation, or sanctions evasion. A GREEN classification does not) Tj ET
+BT 0.250 0.300 0.380 rg /F2 7.8 Tf 1 0 0 1 40.00 83.89 Tm (certify a supply chain as compliant, ethical, or risk-free. Missing or incomplete data must never be interpreted as low risk.) Tj ET
+BT 0.250 0.250 0.250 rg /F1 7.5 Tf 1 0 0 1 40.00 67.89 Tm (METHODOLOGY & LIMITATIONS:) Tj ET
+BT 0.35 0.40 0.48 rg /F2 7.5 Tf 1 0 0 1 40.00 813.89 Tm (MINETRACE | Critical Mineral Supply-Chain Risk Assessment) Tj ET
+BT 0.45 0.50 0.55 rg /F1 7.0 Tf 1 0 0 1 415.28 813.89 Tm (ID: REP-4D5986F87F9A) Tj ET
+0.5 w 0.82 0.85 0.88 RG 40.00 810.89 m 555.28 810.89 l S
+0.5 w 0.82 0.85 0.88 RG 40.00 38.00 m 555.28 38.00 l S
+BT 0.40 0.45 0.50 rg /F1 7.0 Tf 1 0 0 1 40.00 30.00 Tm (Generated: 2026-10-27T16:55:29 UTC) Tj ET
+BT 0.30 0.35 0.42 rg /F2 7.0 Tf 1 0 0 1 390.28 30.00 Tm (CONFIDENTIAL & PROPRIETARY  -  Page 2 of 3) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R
+   /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >>
+   /Contents 12 0 R
+>>
+endobj
+12 0 obj
+<< /Length 2055 >>
+stream
+BT 0.250 0.250 0.250 rg /F1 7.5 Tf 1 0 0 1 40.00 796.89 Tm (1. Anomaly Score: A deterministic weighted score \(0-100\) aggregating multi-rule trade indicators.) Tj ET
+BT 0.250 0.250 0.250 rg /F1 7.5 Tf 1 0 0 1 40.00 784.89 Tm (2. Scope of Detection: Risk rules evaluate reported trade flows \(Comtrade\) and public SDN lists \(OFAC\). They do not inspect physical) Tj ET
+BT 0.250 0.250 0.250 rg /F1 7.5 Tf 1 0 0 1 40.00 772.89 Tm (shipping containers or corporate beneficial ownership trees.) Tj ET
+BT 0.250 0.250 0.250 rg /F1 7.5 Tf 1 0 0 1 40.00 760.89 Tm (3. Data Sufficiency: Where required historical baselines or partner trade reports are unavailable, MineTrace strictly enforces) Tj ET
+BT 0.250 0.250 0.250 rg /F1 7.5 Tf 1 0 0 1 40.00 748.89 Tm (sufficiency guardrails and assigns INSUFFICIENT_DATA rather than assuming compliance.) Tj ET
+BT 0.250 0.250 0.250 rg /F1 7.5 Tf 1 0 0 1 40.00 736.89 Tm (4. Sanctions Screening: Evaluates exact and normalized name matches against US Treasury OFAC records. A status of NO_IDENTIFIED_MATCH) Tj ET
+BT 0.250 0.250 0.250 rg /F1 7.5 Tf 1 0 0 1 40.00 724.89 Tm (does not verify compliance with non-US regimes or unlisted intermediaries.) Tj ET
+BT 0.250 0.250 0.250 rg /F1 7.5 Tf 1 0 0 1 40.00 712.89 Tm (5. Prototype Status: Thresholds \(0-19 GREEN, 20-49 AMBER, 50-100 RED\) are heuristic operational baselines designed for screening and) Tj ET
+BT 0.250 0.250 0.250 rg /F1 7.5 Tf 1 0 0 1 40.00 700.89 Tm (prioritization, not statistically validated probabilities of wrongdoing.) Tj ET
+BT 0.35 0.40 0.48 rg /F2 7.5 Tf 1 0 0 1 40.00 813.89 Tm (MINETRACE | Critical Mineral Supply-Chain Risk Assessment) Tj ET
+BT 0.45 0.50 0.55 rg /F1 7.0 Tf 1 0 0 1 415.28 813.89 Tm (ID: REP-4D5986F87F9A) Tj ET
+0.5 w 0.82 0.85 0.88 RG 40.00 810.89 m 555.28 810.89 l S
+0.5 w 0.82 0.85 0.88 RG 40.00 38.00 m 555.28 38.00 l S
+BT 0.40 0.45 0.50 rg /F1 7.0 Tf 1 0 0 1 40.00 30.00 Tm (Generated: 2026-10-27T16:55:29 UTC) Tj ET
+BT 0.30 0.35 0.42 rg /F2 7.0 Tf 1 0 0 1 390.28 30.00 Tm (CONFIDENTIAL & PROPRIETARY  -  Page 3 of 3) Tj ET
+endstream
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000164 00000 n 
+0000000234 00000 n 
+0000000309 00000 n 
+0000000387 00000 n 
+0000000455 00000 n 
+0000000593 00000 n 
+0000011655 00000 n 
+0000011794 00000 n 
+0000022541 00000 n 
+0000022681 00000 n 
+trailer
+<< /Size 13
+   /Root 1 0 R
+>>
+startxref
+24789
+%%EOF
